@@ -1,2 +1,12 @@
-# About this repository
-This is the source code of a very simple interpreter built using Java and rely on the core concepts of OOP.
+# Mini interpreter
+
+## 📝 About the project
+
+This project consists of building a simple interpreter.
+
+## 🛠️ Skills needed
+
+Java coding skills and core concepts of OOP are required to complete this project
+
+**Made with so much 💗 by Dania & Rym** 
+
